@@ -5,6 +5,15 @@ i have created three apis in this project
 2. Login
 3. Create-blog
 
+Packages Used
+1. Express.js
+2. Sequelize.js
+3. express-async-handler
+4. bcrypt
+5. express-validator
+6. dotenv
+7. jwt
+
 Steps to install
 
 1. Clone this project
